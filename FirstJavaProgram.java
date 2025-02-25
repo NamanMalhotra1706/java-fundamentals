@@ -1,8 +1,8 @@
 class FirstJavaProgram{
 	public static void main(String args[]){
 
-		System.out.print("Start With Capgemini Program");
-
+		System.out.println("Start With Capgemini Program");
+		System.out.println("Writing on Local Machine without Pulling master");
 }
 
 }
